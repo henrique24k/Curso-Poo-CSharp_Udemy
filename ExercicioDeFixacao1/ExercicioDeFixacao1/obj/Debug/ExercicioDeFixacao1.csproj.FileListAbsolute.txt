@@ -1,0 +1,8 @@
+C:\Users\almeida\OneDrive\Área de Trabalho\Curso_POO_c#Udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\ExercicioDeFixacao1.exe.config
+C:\Users\almeida\OneDrive\Área de Trabalho\Curso_POO_c#Udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\ExercicioDeFixacao1.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\Curso_POO_c#Udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\bin\Debug\ExercicioDeFixacao1.pdb
+C:\Users\almeida\OneDrive\Área de Trabalho\Curso_POO_c#Udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\ExercicioDeFixacao1.csproj.AssemblyReference.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Curso_POO_c#Udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\ExercicioDeFixacao1.csproj.SuggestedBindingRedirects.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Curso_POO_c#Udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\ExercicioDeFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\almeida\OneDrive\Área de Trabalho\Curso_POO_c#Udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\ExercicioDeFixacao1.exe
+C:\Users\almeida\OneDrive\Área de Trabalho\Curso_POO_c#Udemy\ExercicioDeFixacao1\ExercicioDeFixacao1\obj\Debug\ExercicioDeFixacao1.pdb
